@@ -1,0 +1,29 @@
+{
+  "name": "empty_classroom",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && rm -rf dist/*/*.map",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.9",
+    "@sentry/tracing": "^7.12.1",
+    "@sentry/vue": "^7.12.1",
+    "@vue/shared": "^3.2.41",
+    "@vueuse/core": "^9.2.0",
+    "aegis-web-sdk": "^1.36.2",
+    "axios": "^0.27.2",
+    "element-plus": "^2.2.13",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "unplugin-auto-import": "^0.11.2",
+    "unplugin-vue-components": "^0.22.4",
+    "vite": "^3.0.7",
+    "vite-plugin-sentry": "^1.1.5"
+  }
+}

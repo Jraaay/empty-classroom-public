@@ -1,0 +1,9 @@
+{
+  "title": "这是标题",
+  "content": "这是内容",
+  "start": "2023-03-03 00:00:00",
+  "end": "2023-03-03 23:59:59",
+  "duration": 20000,
+  "type": "success",
+  "showNotification": false
+}

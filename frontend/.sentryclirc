@@ -1,0 +1,7 @@
+[defaults]
+url = https://example.com
+org = example
+project = empty-classroom
+
+[auth]
+token = example-token
